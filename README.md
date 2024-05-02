@@ -23,3 +23,20 @@ To push to central or upstream repo:
 
 Merge Request:
 For you to be able to merge a branch to a master branch, you need to create a Merge Request or Pull Request.
+
+
+
+
+Docker:
+Dockerfile
+Docker Image
+Docker Container
+Docker Registry
+
+To build a docker image off a dockerfile:
+•	[root@test webserver] # docker build -t webserver:v1 .
+To check for images:
+•	Docker images
+To run a container off the image:
+•
+
